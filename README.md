@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./img.jpg" alt="Fernando Armengol" width="160" />
+<img src="./img.jpg" alt="Fernando Armengol" width="100%" />
 
 # Fernando Armengol
 
