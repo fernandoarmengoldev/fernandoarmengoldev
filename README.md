@@ -6,7 +6,7 @@
 
 **Full-Stack Developer | Web Developer | Technology Enthusiast**
 
-[GitHub](https://github.com/fernandoarmengoldev) · [Portfolio](https://dev.fernandoarmengol.com) · [Contact Me](mailto:dev@fernandoarmengol.com) · [LinkedIn](#)
+[GitHub](https://github.com/fernandoarmengoldev) · [Portfolio](https://dev.fernandoarmengol.com) · [Contact Me](mailto:dev@fernandoarmengol.com) · [LinkedIn](https://www.linkedin.com/in/fernando-d-armengol-gonz%C3%A1lez-090209265/)
 
 </div>
 
