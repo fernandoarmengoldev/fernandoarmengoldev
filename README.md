@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./img.avif" alt="Fernando Armengol" width="100%" />
+<img src="./img.avif" alt="Fernando D. Armengol González" width="100%" />
 
-# Fernando Armengol
+# Fernando D. Armengol González
 
 **Full-Stack Developer | Web Developer | Technology Enthusiast**
 
